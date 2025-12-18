@@ -4,7 +4,7 @@
 
 # Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Manoj Sah
 
-## Front-end Developer | HTML | CSS |Tailwind CSS | JS | WORDPRESS | UX/UI Figma 
+## Front-end Developer| Next JS | React JS  | HTML | CSS |Tailwind CSS | JS | WORDPRESS | UX/UI Figma  
 
 #### I specialize in website development and design, employing a diverse range of skills and technologies:
 
@@ -25,7 +25,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manozks&label=Profile%20views&color=0e75b6&style=flat" alt="manozks" /> </p>
 
-- 🌱 I’m currently learning **Vue.js and React.js**
+- 🌱 I’m currently learning **Prompt AI**
 
 - 💬 Ask me about **html, css, UI/UX Figma, JS, Email template, Email Signature**
 
